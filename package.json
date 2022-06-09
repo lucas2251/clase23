@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-prueba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lucas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
